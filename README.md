@@ -1,4 +1,4 @@
-# jquery-html
+# jquery-html [![Build Status](https://secure.travis-ci.org/aaaristo/jquery-html.png?branch=master)](http://travis-ci.org/aaaristo/jquery-html)
 
 A function to get a window and the $ out of an HTML source
 
