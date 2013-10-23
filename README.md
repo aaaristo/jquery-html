@@ -34,3 +34,7 @@ function(window,$,free)
 ## License
 Copyright (c) 2013 Andrea Amerigo Aristodemo Gariboldi  
 Licensed under the MIT license.
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/aaaristo/jquery-html/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
