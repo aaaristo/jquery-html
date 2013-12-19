@@ -1,7 +1,7 @@
 {
   "name": "jquery-html",
   "description": "A function to get a window and the $ from an HTML source",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "homepage": "https://github.com/andrea/jquery-html",
   "author": {
     "name": "Andrea Amerigo Aristodemo Gariboldi",
@@ -32,6 +32,6 @@
   },
   "keywords": [],
   "dependencies": {
-    "jquery": "~1.8.3"
+    "jquery-loader": "~1.2.0"
   }
 }
